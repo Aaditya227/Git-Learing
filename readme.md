@@ -4,3 +4,6 @@
 main : A -> B -> C -> D* -> E*
 
 <!-- git rebase --continue -->
+
+<!-- Esc :wq --> : HelpfulEscape the writting node, save and quit.
+<!-- i: insert node -->
